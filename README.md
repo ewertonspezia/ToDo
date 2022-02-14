@@ -11,7 +11,7 @@ Technologies used to build the application
 ## Screenshots
 
 <div align="center" id="top"> 
-  <img src="../public/images/todo-layout.png" alt="ToDo Layout" />
+  <img src="./public/images/todo-layout.jpg" alt="ToDo Layout" />
 </div>
 <br/>
 <br/>
